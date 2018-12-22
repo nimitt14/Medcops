@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "630752122351",
+    "firebase_url": "https://medcops-26162.firebaseio.com",
+    "project_id": "medcops-26162",
+    "storage_bucket": "medcops-26162.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:630752122351:android:717edac087ac0ebd",
+        "android_client_info": {
+          "package_name": "com.example.nimitt.medcops"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "630752122351-qgnfhho9p6inltnl6c5b991dik1jj72a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nimitt.medcops",
+            "certificate_hash": "012448c531bf2daacc975f6f3a90bc6471ad83c4"
+          }
+        },
+        {
+          "client_id": "630752122351-mgas082njr0djd832ca9g63soieihpd4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUrqqaPaiknN0kIAMf8u_d5rPzmRETrYY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "630752122351-mgas082njr0djd832ca9g63soieihpd4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
